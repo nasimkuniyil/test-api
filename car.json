@@ -1,0 +1,28 @@
+{
+  "id": "car-001",
+  "brand": "Toyota",
+  "model": "RAV4",
+  "year": 2022,
+  "car_body": "crossover",
+  "color": "Gray",
+  "price": 28500,
+  "currency": "USD",
+  "engine": {
+    "type": "Hybrid",
+    "displacement_liters": 2.5,
+    "horsepower": 219
+  },
+  "transmission": "Automatic",
+  "drivetrain": "AWD",
+  "fuel_economy": {
+    "city_mpg": 41,
+    "highway_mpg": 38
+  },
+  "features": [
+    "Sunroof",
+    "Backup Camera",
+    "Apple CarPlay",
+    "Blind Spot Monitor"
+  ],
+  "available": true
+}
