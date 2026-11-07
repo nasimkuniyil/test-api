@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "description": "Apps and tools that help you plan, focus, and get things done."
+  },
+  {
+    "slug": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Utilities and helpers for building, testing, and shipping software."
+  },
+  {
+    "slug": "design",
+    "name": "Design",
+    "description": "Tools for creating, editing, and sharing visual work."
+  },
+  {
+    "slug": "utilities",
+    "name": "Utilities",
+    "description": "Small, focused apps that make everyday tasks easier."
+  },
+  {
+    "slug": "games",
+    "name": "Games",
+    "description": "Interactive experiences and casual games."
+  }
+]
