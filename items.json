@@ -6,11 +6,11 @@
     "category": "productivity",
     "description": "A calm, keyboard-first task board for deep work.",
     "longDescription": "FocusBoard is a distraction-free task board built around a single daily list. It syncs across devices, supports quick-capture shortcuts, and hides everything that isn't today's priority. Designed for people who want to close tabs and finish work.",
-    "thumbnail": "https://images.example.com/focusboard/thumb.png",
+    "thumbnail": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&q=80",
     "screenshots": [
-      "https://images.example.com/focusboard/shot-1.png",
-      "https://images.example.com/focusboard/shot-2.png",
-      "https://images.example.com/focusboard/shot-3.png"
+      "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&q=80",
+      "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?w=1200&q=80",
+      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&q=80"
     ],
     "platform": ["web", "macos", "windows"],
     "tags": ["tasks", "focus", "keyboard", "offline"],
@@ -31,10 +31,10 @@
     "category": "games",
     "description": "A fast, social paper-passing game reimagined for the web.",
     "longDescription": "Steppadi is a modern take on a traditional Malayalam paper game. Players hold hidden papers, pass them clockwise, and race to notice when they hold three identical words. The first to react scores the most points. Plays in seconds, ends in laughter.",
-    "thumbnail": "https://images.example.com/steppadi/thumb.png",
+    "thumbnail": "https://images.pexels.com/photos/36422633/pexels-photo-36422633.jpeg?auto=compress&cs=tinysrgb&w=400",
     "screenshots": [
-      "https://images.example.com/steppadi/shot-1.png",
-      "https://images.example.com/steppadi/shot-2.png"
+      "https://images.pexels.com/photos/36422633/pexels-photo-36422633.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/39856/pexels-photo-39856.jpeg?auto=compress&cs=tinysrgb&w=1200"
     ],
     "platform": ["web"],
     "tags": ["party", "cards", "multiplayer", "casual", "family"],
@@ -53,12 +53,12 @@
     "category": "design",
     "description": "Screenshot annotation for design reviews.",
     "longDescription": "Lumen lets designers drop a screenshot, annotate it in seconds, and share a clean review link. No account required for reviewers, no lost context, and every comment is versioned.",
-    "thumbnail": "https://images.example.com/lumen/thumb.png",
+    "thumbnail": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=400&q=80",
     "screenshots": [
-      "https://images.example.com/lumen/shot-1.png",
-      "https://images.example.com/lumen/shot-2.png",
-      "https://images.example.com/lumen/shot-3.png",
-      "https://images.example.com/lumen/shot-4.png"
+      "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=1200&q=80",
+      "https://images.unsplash.com/photo-1541462608143-67571c6738dd?w=1200&q=80",
+      "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=1200&q=80"
     ],
     "platform": ["web", "ios", "android"],
     "tags": ["screenshots", "feedback", "design-review", "collaboration"],
@@ -78,9 +78,9 @@
     "category": "developer-tools",
     "description": "Generate throwaway UI wireframes from a JSON spec.",
     "longDescription": "Wireframe CLI turns a small JSON description of screens into static HTML wireframes you can open locally. Ideal for quickly prototyping flows before touching design tooling.",
-    "thumbnail": "https://images.example.com/wireframe-cli/thumb.png",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&q=80",
     "screenshots": [
-      "https://images.example.com/wireframe-cli/shot-1.png"
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80"
     ],
     "platform": ["macos", "linux", "windows"],
     "tags": ["cli", "prototyping", "html", "json"],
@@ -101,10 +101,10 @@
     "category": "utilities",
     "description": "One-key clipboard history that stays out of the way.",
     "longDescription": "Paperclip keeps the last 50 things you copied, searchable and pinnable. It lives in the menu bar and never steals focus.",
-    "thumbnail": "https://images.example.com/paperclip/thumb.png",
+    "thumbnail": "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=400&q=80",
     "screenshots": [
-      "https://images.example.com/paperclip/shot-1.png",
-      "https://images.example.com/paperclip/shot-2.png"
+      "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=1200&q=80",
+      "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80"
     ],
     "platform": ["macos", "windows"],
     "tags": ["clipboard", "history", "menu-bar", "privacy"],
@@ -122,10 +122,10 @@
     "category": "productivity",
     "description": "A weekly review companion for habit tracking.",
     "longDescription": "Cadence helps you run a weekly review in under ten minutes. It surfaces streaks, nudges you to reflect, and archives everything so you can look back a year later.",
-    "thumbnail": "https://images.example.com/cadence/thumb.png",
+    "thumbnail": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&q=80",
     "screenshots": [
-      "https://images.example.com/cadence/shot-1.png",
-      "https://images.example.com/cadence/shot-2.png"
+      "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&q=80",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=80"
     ],
     "platform": ["ios", "android"],
     "tags": ["habits", "journaling", "review", "mobile"],
