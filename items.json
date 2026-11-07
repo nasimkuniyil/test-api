@@ -1,0 +1,138 @@
+[
+  {
+    "id": "itm_0001",
+    "slug": "focusboard",
+    "title": "FocusBoard",
+    "category": "productivity",
+    "description": "A calm, keyboard-first task board for deep work.",
+    "longDescription": "FocusBoard is a distraction-free task board built around a single daily list. It syncs across devices, supports quick-capture shortcuts, and hides everything that isn't today's priority. Designed for people who want to close tabs and finish work.",
+    "thumbnail": "https://images.example.com/focusboard/thumb.png",
+    "screenshots": [
+      "https://images.example.com/focusboard/shot-1.png",
+      "https://images.example.com/focusboard/shot-2.png",
+      "https://images.example.com/focusboard/shot-3.png"
+    ],
+    "platform": ["web", "macos", "windows"],
+    "tags": ["tasks", "focus", "keyboard", "offline"],
+    "status": "live",
+    "version": "2.4.1",
+    "updatedAt": "2025-09-12T10:30:00Z",
+    "developer": "Northwind Labs",
+    "links": {
+      "play": "https://focusboard.example.com/app",
+      "download": "https://focusboard.example.com/download",
+      "docs": "https://docs.focusboard.example.com"
+    }
+  },
+  {
+    "id": "itm_0002",
+    "slug": "steppadi",
+    "title": "Steppadi",
+    "category": "games",
+    "description": "A fast, social paper-passing game reimagined for the web.",
+    "longDescription": "Steppadi is a modern take on a traditional Malayalam paper game. Players hold hidden papers, pass them clockwise, and race to notice when they hold three identical words. The first to react scores the most points. Plays in seconds, ends in laughter.",
+    "thumbnail": "https://images.example.com/steppadi/thumb.png",
+    "screenshots": [
+      "https://images.example.com/steppadi/shot-1.png",
+      "https://images.example.com/steppadi/shot-2.png"
+    ],
+    "platform": ["web"],
+    "tags": ["party", "cards", "multiplayer", "casual", "family"],
+    "status": "beta",
+    "version": "0.9.0",
+    "updatedAt": "2025-10-01T14:15:00Z",
+    "developer": "Steppadi Collective",
+    "links": {
+      "play": "https://steppadi.example.com/play"
+    }
+  },
+  {
+    "id": "itm_0003",
+    "slug": "lumen",
+    "title": "Lumen",
+    "category": "design",
+    "description": "Screenshot annotation for design reviews.",
+    "longDescription": "Lumen lets designers drop a screenshot, annotate it in seconds, and share a clean review link. No account required for reviewers, no lost context, and every comment is versioned.",
+    "thumbnail": "https://images.example.com/lumen/thumb.png",
+    "screenshots": [
+      "https://images.example.com/lumen/shot-1.png",
+      "https://images.example.com/lumen/shot-2.png",
+      "https://images.example.com/lumen/shot-3.png",
+      "https://images.example.com/lumen/shot-4.png"
+    ],
+    "platform": ["web", "ios", "android"],
+    "tags": ["screenshots", "feedback", "design-review", "collaboration"],
+    "status": "live",
+    "version": "1.8.3",
+    "updatedAt": "2025-08-27T09:00:00Z",
+    "developer": "Lumen Studio",
+    "links": {
+      "play": "https://lumen.example.com",
+      "docs": "https://lumen.example.com/docs"
+    }
+  },
+  {
+    "id": "itm_0004",
+    "slug": "wireframe-cli",
+    "title": "Wireframe CLI",
+    "category": "developer-tools",
+    "description": "Generate throwaway UI wireframes from a JSON spec.",
+    "longDescription": "Wireframe CLI turns a small JSON description of screens into static HTML wireframes you can open locally. Ideal for quickly prototyping flows before touching design tooling.",
+    "thumbnail": "https://images.example.com/wireframe-cli/thumb.png",
+    "screenshots": [
+      "https://images.example.com/wireframe-cli/shot-1.png"
+    ],
+    "platform": ["macos", "linux", "windows"],
+    "tags": ["cli", "prototyping", "html", "json"],
+    "status": "live",
+    "version": "1.2.0",
+    "updatedAt": "2025-07-04T18:45:00Z",
+    "developer": "Mosaic Tools",
+    "links": {
+      "download": "https://wireframe-cli.example.com/dist",
+      "source": "https://github.com/example/wireframe-cli",
+      "docs": "https://wireframe-cli.example.com/docs"
+    }
+  },
+  {
+    "id": "itm_0005",
+    "slug": "paperclip",
+    "title": "Paperclip",
+    "category": "utilities",
+    "description": "One-key clipboard history that stays out of the way.",
+    "longDescription": "Paperclip keeps the last 50 things you copied, searchable and pinnable. It lives in the menu bar and never steals focus.",
+    "thumbnail": "https://images.example.com/paperclip/thumb.png",
+    "screenshots": [
+      "https://images.example.com/paperclip/shot-1.png",
+      "https://images.example.com/paperclip/shot-2.png"
+    ],
+    "platform": ["macos", "windows"],
+    "tags": ["clipboard", "history", "menu-bar", "privacy"],
+    "status": "beta",
+    "version": "0.7.2",
+    "updatedAt": "2025-09-30T07:20:00Z",
+    "links": {
+      "download": "https://paperclip.example.com/download"
+    }
+  },
+  {
+    "id": "itm_0006",
+    "slug": "cadence",
+    "title": "Cadence",
+    "category": "productivity",
+    "description": "A weekly review companion for habit tracking.",
+    "longDescription": "Cadence helps you run a weekly review in under ten minutes. It surfaces streaks, nudges you to reflect, and archives everything so you can look back a year later.",
+    "thumbnail": "https://images.example.com/cadence/thumb.png",
+    "screenshots": [
+      "https://images.example.com/cadence/shot-1.png",
+      "https://images.example.com/cadence/shot-2.png"
+    ],
+    "platform": ["ios", "android"],
+    "tags": ["habits", "journaling", "review", "mobile"],
+    "status": "coming-soon",
+    "version": "0.1.0",
+    "updatedAt": "2025-10-05T12:00:00Z",
+    "developer": "Cadence Co.",
+    "links": {}
+  }
+]
